@@ -1,0 +1,26 @@
+<svg id="组_9045" data-name="组 9045" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="矩形_6786" data-name="矩形 6786" width="20" height="20" transform="translate(0)" opacity="0"/>
+  <path id="路径_9288" data-name="路径 9288"/>
+  <g id="组_9044" data-name="组 9044" transform="translate(1.828 1.828)">
+    <g id="组_9040" data-name="组 9040">
+      <g id="组_9038" data-name="组 9038">
+        <path id="路径_9289" data-name="路径 9289" d="M15.732,7.436h-1.5V2.962H9.759v-1.5h5.224a.75.75,0,0,1,.75.75Z" transform="translate(0.612 -1.462)" fill="#fff"/>
+        <path id="路径_9290" data-name="路径 9290" d="M7.436,15.732H2.212a.75.75,0,0,1-.75-.75V9.759h1.5v4.474H7.436Z" transform="translate(-1.462 0.612)" fill="#fff"/>
+      </g>
+      <g id="组_9039" data-name="组 9039">
+        <path id="路径_9291" data-name="路径 9291" d="M14.982,15.732H9.759v-1.5h4.474V9.759h1.5v5.224A.75.75,0,0,1,14.982,15.732Z" transform="translate(0.612 0.612)" fill="#fff"/>
+        <path id="路径_9292" data-name="路径 9292" d="M2.962,7.436h-1.5V2.212a.75.75,0,0,1,.75-.75H7.436v1.5H2.962Z" transform="translate(-1.462 -1.462)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="组_9043" data-name="组 9043" transform="translate(3.311 3.322)">
+      <g id="组_9041" data-name="组 9041" transform="translate(4.907)">
+        <path id="路径_9293" data-name="路径 9293" d="M12.787,8.611h-1.5V5.62H8.3V4.12h3.741a.75.75,0,0,1,.75.75Z" transform="translate(-7.971 -4.12)" fill="#fff"/>
+        <path id="直线_217" data-name="直线 217" d="M.636,4.156-.424,3.095,3.095-.424,4.156.636Z" transform="translate(0.424 0.644)" fill="#fff"/>
+      </g>
+      <g id="组_9042" data-name="组 9042" transform="translate(0 3.739)">
+        <path id="路径_9294" data-name="路径 9294" d="M8.6,12.778H4.861a.75.75,0,0,1-.75-.75V8.287h1.5v2.991H8.6Z" transform="translate(-4.111 -6.818)" fill="#fff"/>
+        <path id="直线_218" data-name="直线 218" d="M.637,5.316-.425,4.256,4.246-.424,5.308.636Z" transform="translate(0.66 0.424)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

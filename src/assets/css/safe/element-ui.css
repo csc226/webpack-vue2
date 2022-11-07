@@ -1,0 +1,65 @@
+.el-dialog__wrapper {
+  box-shadow: 0px 6px 12px rgba(10, 29, 48, 0.15);
+}
+
+.el-dialog__wrapper.is-movable {
+  position: absolute;
+  right: unset;
+  bottom: unset;
+}
+
+.el-dialog__header {
+  padding: 8px 16px;
+  background-color: #fff;
+  font-weight: bold;
+  border-bottom: 1px solid #E0E8F2;
+}
+.el-dialog__title {
+  font-size: 14px;
+  color: #3D404D;
+}
+.el-dialog__headerbtn {
+  top: 8px;
+  right: 12px;
+  color: #fff;
+}
+.el-dialog__body {
+  padding: 12px 16px;
+}
+.el-dialog__headerbtn .el-dialog__close {
+  color: #A3A6B5;
+}
+.el-dialog__headerbtn:focus .el-dialog__close,
+.el-dialog__headerbtn:hover .el-dialog__close {
+  color: #A3A6B5;
+}
+
+.el-dialog {
+  transform: none;
+  left: 0;
+  position: relative;
+  margin: 0 auto;
+}
+
+.el-form-item--small .el-form-item__label {
+  font-weight: 500;
+}
+.el-radio-button__inner {
+  font-size: 14px;
+}
+
+
+/* // 自定义popper */
+.map-theme-popper {
+  background-color: rgba(2, 22, 32, 0.8);
+  border-color: rgba(2, 22, 32, 0.4);
+    
+}
+
+.header_dark {
+  background-color: #EAF0F7 !important;
+}
+
+.el-message-box__message p  {
+  word-break:break-all;
+}

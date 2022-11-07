@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="design-iconfont">
+  <defs>
+    <linearGradient id="apfkx051m__5mckosn37a" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7373"/>
+      <stop offset="1" stop-color="#fc2c49"/>
+    </linearGradient>
+  </defs>
+  <g stroke="transparent" stroke-miterlimit="10">
+    <path d="M83.023,74a8.947,8.947,0,0,1-8,8V77.606a4.469,4.469,0,0,0,3.6-3.6Zm-13.6,0a4.469,4.469,0,0,0,3.6,3.6V82a8.947,8.947,0,0,1-8-8Zm5.6-10a8.947,8.947,0,0,1,8,8h-4.4a4.47,4.47,0,0,0-3.6-3.6Zm-2,0v4.395a4.47,4.47,0,0,0-3.6,3.6h-4.4A8.957,8.957,0,0,1,73.025,64Zm0,0" transform="translate(-64.023 -63)" fill="url(#apfkx051m__5mckosn37a)"/>
+    <path d="M413.548,412.149a2,2,0,1,1-.71,2.738A2.007,2.007,0,0,1,413.548,412.149Z" transform="translate(-404.567 -403.883)" fill="#fff"/>
+  </g>
+</svg>

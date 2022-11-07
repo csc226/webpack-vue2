@@ -1,0 +1,79 @@
+[
+    {
+      "code": "431002",
+      "name": "北湖区",
+      "houseCount": 3,
+      "hiddenDangerCount": 3,
+      "renovateCount": 0
+    },
+    {
+      "code": "431003",
+      "name": "苏仙区",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    },
+    {
+      "code": "431021",
+      "name": "桂阳县",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    },
+    {
+      "code": "431022",
+      "name": "宜章县",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    },
+    {
+      "code": "431023",
+      "name": "永兴县",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    },
+    {
+      "code": "431024",
+      "name": "嘉禾县",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    },
+    {
+      "code": "431025",
+      "name": "临武县",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    },
+    {
+      "code": "431026",
+      "name": "汝城县",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    },
+    {
+      "code": "431027",
+      "name": "桂东县",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    },
+    {
+      "code": "431028",
+      "name": "安仁县",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    },
+    {
+      "code": "431081",
+      "name": "资兴市",
+      "houseCount": 0,
+      "hiddenDangerCount": 0,
+      "renovateCount": 0
+    }
+  ]

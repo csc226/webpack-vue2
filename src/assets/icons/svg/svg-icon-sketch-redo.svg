@@ -1,0 +1,17 @@
+<svg id="back_r" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: inherit;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+ 
+  <rect id="矩形_1312" data-name="矩形 1312"class="cls-1" width="16" height="16"  opacity="0"/>
+  <path id="路径_4233" data-name="路径 4233"class="cls-2" d="M26.879,93.172v-3.3l6.382,5.856-6.382,5.856V98.038c-1.775,0-7.256,0-9.617,5.474V102.9C17.262,100.475,19.624,92.653,26.879,93.172Z" transform="translate(-17.261 -88.69)"  />
+ 
+</svg>

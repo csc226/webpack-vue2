@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246.485" height="31" viewBox="0 0 246.485 31">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0.584" y2="0.416" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8e8e8"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="违法审批问题" transform="translate(0)">
+    <rect id="矩形_6684" data-name="矩形 6684" width="45" height="1" transform="translate(26.485)" fill="#fff" opacity="0.4"/>
+    <rect id="矩形_6697" data-name="矩形 6697" width="196" height="1" transform="translate(50.485)" fill="#fff" opacity="0.15"/>
+    <rect id="矩形_6686" data-name="矩形 6686" width="34" height="1" transform="translate(212.485 30)" fill="#fff" opacity="0.4"/>
+    <rect id="矩形_6689" data-name="矩形 6689" width="16" height="3" rx="1.5" transform="translate(246.485 7) rotate(90)" fill="#fff" opacity="0.83"/>
+    <rect id="矩形_6696" data-name="矩形 6696" width="1" height="1" transform="translate(25.485)" fill="#fff"/>
+    <path id="路径_9212" data-name="路径 9212" d="M6291,1866.409H6085.012l-.146-.241-3.228-5.344.856-.517,3.082,5.1H6291Z" transform="translate(-6065.511 -1835.409)" fill="#fff" opacity="0.15"/>
+    <path id="矩形_6698" data-name="矩形 6698" d="M1,1V11H11V1H1M0,0H12V12H0Z" transform="translate(8.485 4.515) rotate(45)" fill="#e8e8e8"/>
+    <rect id="矩形_6699" data-name="矩形 6699" width="3.254" height="3.254" transform="translate(8.485 10.699) rotate(45)" fill="#fff"/>
+    <path id="矩形_6699_-_轮廓" data-name="矩形 6699 - 轮廓" d="M1,1V2.254H2.254V1H1M0,0H3.254V3.254H0Z" transform="translate(8.485 10.699) rotate(45)" fill="#e8e8e8"/>
+    <path id="矩形_6700" data-name="矩形 6700" d="M1,1V11H11V1H1M0,0H12V12H0Z" transform="translate(12.485 4.515) rotate(45)" opacity="0.5" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
